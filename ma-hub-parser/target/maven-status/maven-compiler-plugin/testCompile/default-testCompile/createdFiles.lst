@@ -1,0 +1,6 @@
+com\mahub\parser\OrderServiceParserTest.class
+com\mahub\parser\NotificationServiceParserTest.class
+com\mahub\parser\PaymentServiceParserTest.class
+com\mahub\parser\UserServiceParserTest.class
+com\mahub\parser\ServiceSpecValidatorTest.class
+com\mahub\parser\ProductServiceParserTest.class

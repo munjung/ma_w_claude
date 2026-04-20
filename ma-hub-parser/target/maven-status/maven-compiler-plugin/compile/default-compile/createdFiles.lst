@@ -1,0 +1,11 @@
+com\mahub\parser\ValidationError.class
+com\mahub\parser\model\DependencyRef.class
+com\mahub\parser\model\FieldSpec.class
+com\mahub\parser\model\DtoSpec.class
+com\mahub\parser\model\ApiEndpoint.class
+com\mahub\parser\model\ServiceSpec.class
+com\mahub\parser\ServiceSpecValidator.class
+com\mahub\parser\ValidationError$Severity.class
+com\mahub\parser\MarkdownServiceParser.class
+com\mahub\parser\model\EventSpec.class
+com\mahub\parser\model\DomainModel.class
