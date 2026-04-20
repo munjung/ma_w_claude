@@ -1,0 +1,30 @@
+# Maven
+target/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 환경변수
+.env
+*.env.local
+application-local.yml
+application-secret.yml
+
+# omc (프로젝트 밖에 있지만 혹시 몰라)
+.omc/
+
+# 로그
+*.log
+logs/
+
+# 임시파일
+tmp/
+temp/
